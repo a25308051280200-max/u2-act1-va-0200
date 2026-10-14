@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: imagensha_0200.webp
+Ruta del archivo: C:\IA_Gpo3H\VS_0200_A\u2-act1-va-0200\img-original-0200\imagensha_0200.webp
+Formato por extension: .WEBP
+Tamano en bytes: 34092
+Tamano en KB: 33.29
+Tamano en MB: 0.0325
+
+DIMENSIONES
+-----------
+Ancho: 500 pixeles
+Alto: 750 pixeles
+Resolucion: 500 x 750
+Total de pixeles: 375,000
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 143.80
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 180.32
+Verde (G): 157.76
+Rojo (R): 93.33
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
